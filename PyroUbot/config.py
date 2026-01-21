@@ -21,4 +21,4 @@ RMBG_API = os.getenv("RMBG_API", "a6qxsmMJ3CsNo7HyxuKGsP1o")
 
 MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://biduan:biduan@cluster0.3uiosr7.mongodb.net/?appName=Cluster0")
 
-LOGS_MAKER_UBOT = int(os.getenv("LOGS_MAKER_UBOT", "-1002864024582"))
+LOGS_MAKER_UBOT = int(os.getenv("LOGS_MAKER_UBOT", "-1003366603232"))
